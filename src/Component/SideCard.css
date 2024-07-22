@@ -1,0 +1,34 @@
+.btn-container{
+    display: flex !important;
+    flex-direction: row;
+    /* gap: 2px; */
+    width: 340px;
+    height: 40px;
+    gap: 14px;
+
+    margin-top: 12px;
+    margin-left: 17px;
+    margin-right: 12px;
+}
+.btn{
+    width:200px;
+    height:35px;
+    gap: 10px;
+    border-radius: 8px 0px 0px 0px;
+    font-weight: bold !important;
+    
+}
+.img-container{
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-right:12px;
+    width: auto !important;
+    height: 445px;
+    border-radius: 8px 8px 8px 8px;
+
+}
+imageBlue{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px 8px 8px 8px;
+}

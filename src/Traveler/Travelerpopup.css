@@ -1,0 +1,44 @@
+.traveler-box{
+    width:  500px !important;
+    height: 400px;
+    top: 107px;
+    left: 420px;
+    padding: 40px 40px 60px 40px;
+    gap: 10px;
+    border-radius: 15px;
+    
+    /* opacity: 0px; */
+    background-color: 
+    #FFFFFF!important;
+    /* box-shadow: 5px 5px  25px -5px #C2C2C240; */
+    border: none !important;
+    
+    
+    
+    }
+    .typography-text{
+    width: 274 px !important;
+    height: 88 px;
+    gap: 8px;
+    opacity: 0px;
+    
+    }
+    
+    .img{
+        width: 240px !important;
+        height: 200px;
+        gap: 0px;
+        opacity: 0px;
+        align-items: center;
+    
+    }
+    .login-btn{
+     width: 520px !important;
+    height:  48px;
+    gap: 8px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+    
+    
+    
+    }

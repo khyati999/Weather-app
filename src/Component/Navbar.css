@@ -1,0 +1,15 @@
+.appbar{
+    background-color: transparent !important;
+    padding: 16px;
+    width:  1,320px;
+    height:  75px;
+    gap: 20px;
+    padding-right: 50px;
+    padding-left: 35px;
+    
+}
+.nav_divHeader{
+    border: 1px solid #76707080; 
+    margin-left: 3.8rem;
+    margin-right: 4.5rem;
+}
